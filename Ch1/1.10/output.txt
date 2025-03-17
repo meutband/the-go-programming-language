@@ -1,0 +1,4 @@
+0.34s     6591  http://amazon.com
+0.36s     4154  http://gopl.io
+0.36s       23  http://yahoo.com
+0.36s elasped
