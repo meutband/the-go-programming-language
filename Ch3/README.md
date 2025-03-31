@@ -1,7 +1,7 @@
 # Problem Set
 
 ## 3.1
-If the function f returns a non-finite float64 value, the SVG file will contain invalid ```polygon``` elements (although many SVG renders handle this gracefully). Modify the program to skip invalid polygons.
+If the function ```f``` returns a non-finite ```float64``` value, the SVG file will contain invalid ```<polygon>``` elements (although many SVG renders handle this gracefully). Modify the program to skip invalid polygons.
 
 ## 3.2
 Experiment with visualizations of other functions from the ```math``` package. Can you produce an egg box, moguls, or a saddle?
@@ -32,13 +32,13 @@ Rendering fractals at high zoom levels demands great arithmetic precision. Imple
 Write a web server that renders fractals and writes the image data to the client. Allow the client to pecify the x, y, amd zoom values as paramters to the HTTP request. 
 
 ## 3.10
-Write a non-recursive version of comma, using bytes.Buffer instead of string concatenation.
+Write a non-recursive version of ```comma```, using ```bytes.Buffer``` instead of string concatenation.
 
 ## 3.11
-Enchance comma so that it deals correctly with floating-point numbers and an optional sign.
+Enchance ```comma``` so that it deals correctly with floating-point numbers and an optional sign.
 
 ## 3.12
 Write a function that reports whether two strings are anagrams of each other, that is, they contain the same letters in a different order.
 
 ## 3.13
-Write const declarations of KB, MB, up through YB as compactly as you can.
+Write ```const``` declarations of KB, MB, up through YB as compactly as you can.
