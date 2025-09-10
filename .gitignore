@@ -1,2 +1,7 @@
 .vscode/
 .DS_Store
+
+Ch4/4.12/comics/*
+!Ch4/4.12/comics/571.json
+Ch4/4.13/posters/*
+!Ch4/4.13/posters/Star Wars: Episode IV - A New Hope.jpg
