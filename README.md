@@ -10,3 +10,4 @@ This repo contains my solutions to the [book](https://www.gopl.io/).
 - [Chapter 4: Composite Types](/Ch4/)
 - [Chapter 5: Functions](/Ch5/)
 - [Chapter 6: Methods](/Ch6/)
+- [Chapter 7: Interfaces](/Ch7/)
