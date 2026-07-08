@@ -10,6 +10,8 @@ import (
 	"os"
 	"path/filepath"
 	"strings"
+
+	"gopl.io/ch5/links"
 )
 
 func main() {
@@ -45,7 +47,7 @@ func crawl(u string) []string {
 
 	downloadURL(u)
 
-	list, err := Extract(u)
+	list, err := links.Extract(u)
 	if err != nil {
 		log.Print(err)
 	}
