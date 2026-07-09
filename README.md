@@ -11,3 +11,4 @@ This repo contains my solutions to the [book](https://www.gopl.io/).
 - [Chapter 5: Functions](/Ch5/)
 - [Chapter 6: Methods](/Ch6/)
 - [Chapter 7: Interfaces](/Ch7/)
+- [Chapter 8: Goroutines and Channels](/Ch8/)
