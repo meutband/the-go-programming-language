@@ -13,3 +13,4 @@ This repo contains my solutions to the [book](https://www.gopl.io/).
 - [Chapter 7: Interfaces](/Ch7/)
 - [Chapter 8: Goroutines and Channels](/Ch8/)
 - [Chapter 9: Concurrency with Shared Variables](/Ch9/)
+- [Chapter 10: Packages and the Go Tool](/Ch10/)
